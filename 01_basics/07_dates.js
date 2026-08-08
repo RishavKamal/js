@@ -23,4 +23,4 @@ newDate.toLocaleDateString('default', {
     weekday: "long",
     timeZone: "Asia/Kolkata"
 })
-
+ 
